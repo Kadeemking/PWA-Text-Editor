@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a text editor a single-page application that is able to run offline. 
+This project is a text editor designed as a single-page application with offline functionality. It features IndexedDB integration, enabling the use of GET and PUT methods for retrieving and updating data. The application seamlessly preserves user input by automatically saving content whenever the DOM window loses focus. Additionally, I completed the logic for the installation button, enhancing the app's usability. The application is bundled with Webpack and can be installed as a PWA.
 
 ## Table of Contents
 
@@ -13,22 +13,19 @@ This project is a text editor a single-page application that is able to run offl
 
 ## Installation
 
-Use npm i to download the dependencies.
+Press the install button on the top left corner.
 
 ## Usage
 
-<a href="">Live link</a> 
+To us this application just visit the <a href="https://jate-pv1w.onrender.com">Live link</a> and add text. 
 
-![Photo of application usage](.)
-
+![Photo of application usage](./client/src/images/Screenshot19.png)
 
 ## Credits
 
-<a href="https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide">README Format</a> 
+<a href="https://coding-boot-camp.github.io/full-stack/render/render-deployment-guide">Render Deployment Guide</a> 
 
 <a href="https://gist.github.com/lukas-h/2a5d00690736b4c3a7ba">License Page</a> 
-
-
 
 ## License
 
